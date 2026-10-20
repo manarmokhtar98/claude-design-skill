@@ -1,5 +1,5 @@
 ---
-name: claude-design
+name: design
 description: >-
   Produce thoughtful, high-fidelity design artifacts in HTML — landing pages,
   slide decks, interactive prototypes, animated videos, posters, wireframes,
